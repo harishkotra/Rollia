@@ -1,0 +1,21 @@
+
+export const PROMPTS: string[] = [
+  "Take three deep, slow breaths. Notice how your body feels.",
+  "What is one thing you are grateful for right now, big or small?",
+  "Describe a sound you can hear. What does it make you think of?",
+  "Think of a person who brings you joy. What do you appreciate about them?",
+  "What is one small thing you can do for yourself today?",
+  "Close your eyes for a moment. What's the first image that comes to mind?",
+  "Name one thing you're looking forward to this week.",
+  "What's a challenge you've overcome recently? Acknowledge your strength.",
+  "Simply stretch your arms above your head. Hold for a moment, then release.",
+  "Think about your favorite place. What makes it special?",
+  "What emotion are you feeling right now? Name it without judgment.",
+  "Recall a happy memory. Let the feeling wash over you for a moment.",
+  "Unclench your jaw and relax your shoulders. Notice any tension melting away.",
+  "What is something beautiful you've seen today?",
+  "If you could give your past self one piece of advice, what would it be?",
+  "Listen to your own heartbeat for a few seconds.",
+  "What is one worry you can choose to let go of, just for today?",
+  "Acknowledge one thing you like about yourself.",
+];
